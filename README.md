@@ -18,6 +18,7 @@ Understanding these patterns is valuable for:
 | Skill | Description | Status |
 |-------|-------------|--------|
 | [x-scraping](./skills/x-scraping/) | Alternative methods for accessing public tweet content | ✅ Ready |
+| [bot-detection-bypass](./skills/bot-detection-bypass/) | Handling Cloudflare Turnstile and headless browser detection | ✅ Ready |
 | *more coming...* | | |
 
 ## 🤝 Contributing
